@@ -3,9 +3,14 @@
   margin: 0;
   box-sizing: border-box;
 }
+<<<<<<< HEAD
 html {
   font-size: 62.5%;
 }
 body {
   font-size: 1rem;
+=======
+body {
+  background-color: #111;
+>>>>>>> a05805255fc8441b8aa48bfeb03d62b1f9ff766c
 }
