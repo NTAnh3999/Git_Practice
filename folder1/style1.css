@@ -10,6 +10,7 @@ html {
 body {
   font-size: 1rem;
 <<<<<<< HEAD
+<<<<<<< HEAD
   color: red;
 =======
 >>>>>>> d855f19 (modified folder1/style1.css)
@@ -17,4 +18,10 @@ body {
 body {
   background-color: #111;
 >>>>>>> a058052 (Update style1.css)
+=======
+=======
+body {
+  background-color: #111;
+>>>>>>> a05805255fc8441b8aa48bfeb03d62b1f9ff766c
+>>>>>>> 6aa52f0d234bb53596fe923d9203e1f0fb887d56
 }
